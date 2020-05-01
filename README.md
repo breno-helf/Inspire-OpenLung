@@ -1,6 +1,6 @@
 # Inspire-OpenLung
 
-Seja muito bem vindo ao repositório do projeto de hardware livre OpenLung! Um respirador emergencial brasileiro para enfrentamento da COVID-19!
+Seja muito bem vindo ao repositório do projeto de hardware livre OpenLung! Um respirador emergencial brasileiro para enfrentamento da COVID-19!        -
 
 Um projeto da iniciativa [Inspire Poli-USP](https://www.poli.usp.br/inspire), uma de oito iniciativas da Universidade de São Paulo envolvendo viabilização de respiradores para enfrentamento à pandemia. Para saber mais sobre essa e outras iniciativas [veja esse link](https://prp.usp.br/usp-e-covid-19/).
 
